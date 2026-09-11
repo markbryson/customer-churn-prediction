@@ -1,0 +1,17 @@
+﻿# Dataset
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
